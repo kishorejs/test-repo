@@ -23,5 +23,7 @@
       <string v="oracle.jdeveloper.model.PathsConfiguration/ApplicationBuildToolContentSet"/>
       <string v="oracle.jdeveloper.model.PathsConfiguration/ResourceBundlesContentSet"/>
    </list>
-   <list n="listOfChildren"/>
+   <list n="listOfChildren">
+      <hash><url n="URL" path="TestSOAProject/TestSOAProject.jpr"/></hash>
+   </list>
 </jws:workspace>
